@@ -1,5 +1,5 @@
-<h1 align="left">👋 Hi, I'm Enrique Javier Spinelli!</h1>
 ![BANNER!](github_banner.png)
+<h1 align="left">👋 Hi, I'm Enrique Javier Spinelli!</h1>
 <h3 align="left">I am a passionate frontend developer focused on creating attractive and functional user interfaces. My main goal is to transform ideas and concepts into intuitive and enjoyable user experiences. Furthermore, I am constantly staying updated on the latest trends and technologies in the world of web development to ensure delivering modern and high-quality products. In addition to my technical skills, I possess strong teamwork and communication abilities. I am excited to continue growing as a developer and contribute to the success of exciting projects.</h3>
 
 - 👨‍💻 All of my projects are available at [https://enrique-spinelli-port.vercel.app](https://enrique-spinelli-port.vercel.app)
